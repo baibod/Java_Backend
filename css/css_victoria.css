@@ -1,0 +1,43 @@
+body{
+  background-color: #a3a375
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+h1{
+  font-size: 50px;
+  color:  #b3ffec
+}
+
+h2{
+  color:  #b3ffec
+}
+
+a.purple{
+  color: #e6ccff;
+}
+
+a.link{
+  color: #ffeb99;
+}
+
+a,p,li,h1,h2{
+  font-family: "Arial", sans-serif;
+}
+
+a,p,li{
+  font-weight: bold;
+  color: #ffffff;
+}
+
+
+.titalic{
+  font-style: italic;
+}

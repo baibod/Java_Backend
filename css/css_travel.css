@@ -1,0 +1,53 @@
+body{
+  background-color: #d1d490;
+  font-family: "Arial", sans-serif;
+}
+
+div{
+  border: 1px solid red;
+}
+
+div.nav_menu{
+  top: 6.5em;
+  position:relative;
+  display: inline;
+  text-align: right;
+  text-decoration: none;
+}
+
+div.container{
+  background-color: #d1d490;
+}
+
+.logo{
+  text-decoration: none;
+}
+
+a.nav-link{
+  font-weight: bold;
+  text-decoration: none;
+  padding-left: 20px;
+  font-size: 2em;
+}
+
+hr{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+div.about{
+  float: right;
+  background-color: gray;
+}
+
+.my_friends1{
+  float: left;
+}
+
+.my_friends2{
+  float: right;
+}
